@@ -1,21 +1,35 @@
-<<<<<<< HEAD
-# Hema Portfolio
+# Hema UVS — Portfolio
 
-Personal portfolio website built with Next.js + Tailwind CSS.
+Data Engineer
+---
 
-## Tech Stack
-- Next.js (App Router)
-- TypeScript
-- Tailwind CSS
-- Vercel Deployment
+## About
+I build data pipelines, analytics systems, and dashboards that turn raw data into actionable insights.
 
-## Run Locally
-npm install
-npm run dev
+---
 
-## Deploy on Vercel
+## Focus Areas
+- Data Engineering (ETL/ELT, SQL, Python)
+- Data Modeling & Warehousing
+- Analytics Dashboards (Tableau)
+- Data Quality & Testing (dbt)
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
->>>>>>> 5477ffd (Inital portfolio setup)
+## Projects
+Selected work in this portfolio includes:
+- Enterprise data consolidation systems
+- Analytics dashboards for operational insights
+- Data quality testing frameworks using dbt
+- SQL optimization and automation workflows
+
+---
+
+## Live Site
+https://hema-portfolio-sage.vercel.app/
+
+---
+
+## Contact
+- GitHub: https://github.com/hemasreeuvs     
+- Email: uvs.hema@gmail.com
