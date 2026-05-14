@@ -2,9 +2,9 @@ import "./globals.css";
 import Link from "next/link";
 
 export const metadata = {
-  title: "Hema | Data Engineer Portfolio",
+  title: "Hema Portfolio",
   description:
-    "Portfolio of Hema- Data Engineer building scalable data pipelines, analytics systems, and dashboards.",
+    "Portfolio of Hema - Building and learning with Data.",
 };
 
 export default function RootLayout({
@@ -14,7 +14,8 @@ export default function RootLayout({
 }) {
   return (
     <html lang="en">
-      <body className="bg-gray-50 text-gray-900">
+
+      <body className="min-h-screen bg-gradient-to-br from-blue-50 via-purple-50 to-pink-50 text-gray-900">
         {/* Navbar */}
         <header className="sticky top-0 z-50 border-b bg-white/80 backdrop-blur">
           <div className="mx-auto flex max-w-6xl items-center justify-between px-6 py-4">
@@ -43,7 +44,7 @@ export default function RootLayout({
         {children}
 
         {/* Footer */}
-        <footer className="border-t bg-white py-8">
+        <footer className="border-t bg-white/60 backdrop-blur py-8">
           <div className="mx-auto max-w-6xl px-6 text-sm text-gray-500">
             © {new Date().getFullYear()} Hemasree UVS. All rights reserved.
           </div>

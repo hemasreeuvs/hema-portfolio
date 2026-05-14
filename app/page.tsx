@@ -6,12 +6,12 @@ export default function Home() {
       <div className="max-w-3xl text-center">
         <h1 className="text-4xl font-bold tracking-tight sm:text-6xl">
           Hey, welcome to the world of{" "}
-          <span className="underline decoration-white/50">Hema</span>
+          <span className="bg-white/20 px-3 py-1 rounded-xl">Hema</span>
         </h1>
 
         <p className="mt-6 text-lg text-white/90 sm:text-xl">
-          Explore my projects, skills, and the work I’m building as a Data
-          Engineer.
+          Let’s build, learn, and explore data through real-world
+          projects and case studies.
         </p>
 
         <div className="mt-10">
