@@ -22,21 +22,6 @@ export default function RootLayout({
             <Link href="/main" className="text-lg font-semibold">
               Hemasree Uppaluri Venkata Syamala
             </Link>
-
-            <nav className="flex gap-6 text-sm font-medium text-gray-600">
-              <Link href="/projects" className="hover:text-gray-900">
-                Projects
-              </Link>
-              <Link href="/blog" className="hover:text-gray-900">
-                Blog
-              </Link>
-              <Link href="/resume" className="hover:text-gray-900">
-                Resume
-              </Link>
-              <Link href="/contact" className="hover:text-gray-900">
-                Contact
-              </Link>
-            </nav>
           </div>
         </header>
 
